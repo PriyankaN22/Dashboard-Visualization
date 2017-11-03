@@ -18,7 +18,7 @@ This visualization is developed to redesign and improve the existing visualizati
 ![Alt text](https://user-images.githubusercontent.com/31669563/32383682-e0889802-c075-11e7-8760-8858ceee5bd2.PNG)
 
 
-First of all, this visualization is not sorted based on pay gap. Hence it is difficult to figure out in the first look which category has the maximum pay gap. Also, the visualization is based on each job role under each occupational category. Current claim is “Women are getting paid less than their male counterparts”. If we try to relate the claim with the data on the visualization, we see that lot of unnecessary information has been put at once which can distract the audience from the main claim. Holistic view of just the occupational categories would have sufficed the goal.
+First of all, the original visualization is not sorted based on pay gap. Hence it is difficult to figure out in the first look which category has the maximum pay gap. Also, the visualization is based on each job role under each occupational category. Current claim is “Women are getting paid less than their male counterparts”. If we try to relate the claim with the data on the visualization, we see that lot of unnecessary information has been put at once which can distract the audience from the main claim. Holistic view of just the occupational categories would have sufficed the goal.
 
 Secondly, the viz compares the pay gap on the basis of job role which seems inappropriate. Job role in each category can be very different from the job role in another category. For example, skillset of a production worker is completely different than skillset of a lawyer. Hence, comparing these job roles doesn’t give us any useful information. 
 
@@ -30,6 +30,41 @@ Finally, the visualization does not highlight the parameters which can help us i
 In addition to showing the wage gap for each occupational category, visualization should provide some parameters on the basis of which the audience can easily figure out the reasons for pay gap. Once the reasons are clear, it would be easy for them to think about the corrective measures. 
 
 Hence, I took salaries of men and women serving the same occupation as my second dataset in order to find out the reasons behind this bias. This will help us understand what happens to wage gap when a woman gets older. Does her accumulated experience brings fairness in the pay structure? Does her family responsibilities affect her work life? Does she feel motivated to continue her work? We will try to find answer for all of these questions in this report. 
+
+### A glance at the development process:
+
+#### Data collection/exploration/wrangling: 
+Data for the original visualization is was obtained from US Bureau of Labor Statistics, UK Office of National Statistics and The Guardian Datablog. The salaries shown here are for Full-time employees in Year 2016. Due to lack of data, part-time or freelance salaries are not covered as part of this visualization. I picked this as my first dataset, as it was already clean, there was no need of data wrangling. I did make minor formatting changes to make it easily readable by Tableau.
+
+
+Dataset1:
+
+Source for original: http://www.informationisbeautiful.net/visualizations/gender-pay-gap/
+
+Also uploaded at https://github.com/PriyankaN22/Dashboard-Visualization/blob/master/Redesign%20Project/Datasets/Gender%20Pay%20Gap%20-%20Public%20Data.xlsx
+
+My version: https://github.com/PriyankaN22/Dashboard-Visualization/blob/master/Redesign%20Project/Datasets/Gender%20Pay%20PAN.csv
+
+
+Dataset2: 
+Second dataset is median weekly earnings of men and women in Year 2016 all the age groups. Again, the data considered here is for full-time employees only. 
+
+Source for original: https://www.bls.gov/cps/earnings.htm
+
+Also uploaded at https://github.com/PriyankaN22/Dashboard-Visualization/blob/master/Redesign%20Project/Datasets/cpsaat11b.xlsx
+
+My version: https://github.com/PriyankaN22/Dashboard-Visualization/blob/master/Redesign%20Project/Datasets/Age%20analysis.xlsx
+
+
+Dataset 3: Occupational categories “Management” and “Legal” has the maximum wage gap. Hence I tried to research on the number of women from each age group working for above two categories. I consolidated the two categories into one.
+
+Source for original: https://www.bls.gov/cps/earnings.htm
+
+Also uploaded at https://github.com/PriyankaN22/Dashboard-Visualization/blob/master/Redesign%20Project/Datasets/womens-earnings-tables-2016.xlsx
+
+My version: https://github.com/PriyankaN22/Dashboard-Visualization/blob/master/Redesign%20Project/Datasets/Category%20wise.xlsx
+
+
 
 
 
