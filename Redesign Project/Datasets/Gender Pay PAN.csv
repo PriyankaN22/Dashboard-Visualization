@@ -1,0 +1,364 @@
+Country,Category,Occupation,Avg Women Sal. PA,Avg Men Sal. PA,Pay gap,Pay Gap %
+USA,Admin & Organisation,HR managers,"67,600","95,004","27,404",40.50%
+USA,Admin & Organisation,Production clerks,"38,376","53,248","14,872",38.80%
+USA,Admin & Organisation,Human resources,"47,424","65,364","17,940",37.80%
+USA,Admin & Organisation,Admin,"35,984","45,656","9,672",26.90%
+USA,Admin & Organisation,Accountants,"51,948","64,272","12,324",23.70%
+USA,Admin & Organisation,Education admin,"60,892","74,828","13,936",22.90%
+USA,Admin & Organisation,Secretaries ,"35,620","42,172","6,552",18.40%
+USA,Admin & Organisation,Receptionists,"27,664","32,032","4,368",15.80%
+USA,Admin & Organisation,Property managers,"44,980","50,752","5,772",12.80%
+USA,Admin & Organisation,Accounting,"34,320","38,064","3,744",10.90%
+USA,Admin & Organisation,Admin,"33,124","36,452","3,328",10.00%
+USA,Admin & Organisation,Data entry keyers,"32,136","34,996","2,860",8.90%
+USA,Admin & Organisation,Office clerks,"32,552","34,424","1,872",5.80%
+USA,Care & Education,Doctors & surgeons,"64,792","104,104","39,312",60.70%
+USA,Care & Education,Teachers & instructors,"40,144","56,992","16,848",42.00%
+USA,Care & Education,Personal care,"23,660","31,564","7,904",33.40%
+USA,Care & Education,Healthcare,"51,116","65,312","14,196",27.80%
+USA,Care & Education,Education,"46,644","59,332","12,688",27.20%
+USA,Care & Education,Postsecondary ,"59,436","73,268","13,832",23.30%
+USA,Care & Education,Teacher assistants,"25,688","30,160","4,472",17.40%
+USA,Care & Education,Social services,"50,856","59,384","8,528",16.80%
+USA,Care & Education,Pre-secondary,"49,712","56,992","7,280",14.60%
+USA,Care & Education,Healthcare support,"25,584","29,120","3,536",13.80%
+USA,Care & Education,Nursing,"24,232","27,456","3,224",13.30%
+USA,Care & Education,Physical therapists,"67,964","76,856","8,892",13.10%
+USA,Care & Education,Secondary school ,"51,168","57,616","6,448",12.60%
+USA,Care & Education,Emergency medical,"36,868","41,132","4,264",11.60%
+USA,Care & Education,Nursing managers,"55,952","61,880","5,928",10.60%
+USA,Care & Education,Personal care aides,"22,100","24,180","2,080",9.40%
+USA,Care & Education,Special education ,"51,324","56,056","4,732",9.20%
+USA,Care & Education,Social workers,"43,628","46,384","2,756",6.30%
+USA,Creative & Media,Web developers,"51,376","64,740","13,364",26.00%
+USA,Creative & Media,Designers,"42,224","53,040","10,816",25.60%
+USA,Creative & Media,Arts & media,"45,240","53,248","8,008",17.70%
+USA,Law & Justice,Legal occupations,"52,052","91,780","39,728",76.30%
+USA,Law & Justice,Protective services,"32,084","46,072","13,988",43.60%
+USA,Law & Justice,Police officers,"38,636","54,236","15,600",40.40%
+USA,Law & Justice,Lawyers,"82,680","99,580","16,900",20.40%
+USA,Law & Justice,Security,"26,728","30,628","3,900",14.60%
+USA,Law & Justice,Bailiffs & jailers,"35,724","39,260","3,536",9.90%
+USA,Law & Justice,Traffic clerks,"29,952","31,356","1,404",4.70%
+USA,Manual Work,Construction,"26,468","39,728","13,260",50.10%
+USA,Manual Work,Production workers,"25,584","35,152","9,568",37.40%
+USA,Manual Work,Metal workers,"26,572","33,644","7,072",26.60%
+USA,Manual Work,Grounds maintenance,"21,476","26,884","5,408",25.20%
+USA,Manual Work,Farming & fishing,"19,500","23,764","4,264",21.90%
+USA,Manual Work,Farmers,"19,188","22,724","3,536",18.40%
+USA,Manual Work,Electrical workers,"26,312","31,096","4,784",18.20%
+USA,Manual Work,Packers ,"20,540","23,868","3,328",16.20%
+USA,Manual Work,Laborers,"24,752","28,392","3,640",14.70%
+USA,Manual Work,Construction,"35,932","39,364","3,432",9.60%
+USA,Sales & Serving Others,Sales ,"29,640","43,732","14,092",47.50%
+USA,Sales & Serving Others,Domestic supervisors,"26,000","37,440","11,440",44.00%
+USA,Sales & Serving Others,Retail salespersons,"25,532","36,296","10,764",42.20%
+USA,Sales & Serving Others,Marketing & sales ,"59,800","84,448","24,648",41.20%
+USA,Sales & Serving Others,Bartenders,"23,868","32,968","9,100",38.10%
+USA,Sales & Serving Others,Recreation & fitness,"27,092","37,232","10,140",37.40%
+USA,Sales & Serving Others,Real estate,"37,752","51,532","13,780",36.50%
+USA,Sales & Serving Others,Drivers,"28,340","38,428","10,088",35.60%
+USA,Sales & Serving Others,Insurance sales ,"36,296","49,192","12,896",35.50%
+USA,Sales & Serving Others,Food service manager,"30,940","41,912","10,972",35.50%
+USA,Sales & Serving Others,Training ,"49,660","66,560","16,900",34.00%
+USA,Sales & Serving Others,Retail supervisors,"30,940","41,236","10,296",33.30%
+USA,Sales & Serving Others,Clergy,"39,676","52,364","12,688",32.00%
+USA,Sales & Serving Others,Janitors,"21,580","28,080","6,500",30.10%
+USA,Sales & Serving Others,Credit counselors,"47,580","61,776","14,196",29.80%
+USA,Sales & Serving Others,Retail sales ,"39,832","51,272","11,440",28.70%
+USA,Sales & Serving Others,Wholesale reps,"45,396","58,240","12,844",28.30%
+USA,Sales & Serving Others,Service occupations,"23,972","30,316","6,344",26.50%
+USA,Sales & Serving Others,Transportation,"43,472","52,728","9,256",21.30%
+USA,Sales & Serving Others,Waiters & bartenders,"21,840","26,468","4,628",21.20%
+USA,Sales & Serving Others,Waiters & waitresses,"21,580","26,052","4,472",20.70%
+USA,Sales & Serving Others,Postal service ,"44,252","53,300","9,048",20.40%
+USA,Sales & Serving Others,Claims adjusters,"47,216","56,836","9,620",20.40%
+USA,Sales & Serving Others,Wholesale buyers,"41,912","50,440","8,528",20.30%
+USA,Sales & Serving Others,Catering supervisors,"25,220","30,316","5,096",20.20%
+USA,Sales & Serving Others,Advertising sales ,"45,292","54,132","8,840",19.50%
+USA,Sales & Serving Others,Butchers,"23,764","27,924","4,160",17.50%
+USA,Sales & Serving Others,Purchasers,"46,644","54,808","8,164",17.50%
+USA,Sales & Serving Others,Customer services,"31,512","36,296","4,784",15.20%
+USA,Sales & Serving Others,Pharmacists,"98,904","113,152","14,248",14.40%
+USA,Sales & Serving Others,Sales supervisors,"45,656","52,208","6,552",14.40%
+USA,Sales & Serving Others,Dispatchers,"34,788","39,728","4,940",14.20%
+USA,Sales & Serving Others,Chefs & head cooks,"27,612","31,252","3,640",13.20%
+USA,Sales & Serving Others,Insurance clerks,"32,864","36,868","4,004",12.20%
+USA,Sales & Serving Others,Bakers,"24,388","26,936","2,548",10.40%
+USA,Sales & Serving Others,Tellers,"26,364","28,288","1,924",7.30%
+USA,Sales & Serving Others,Purchasing managers,"66,352","71,032","4,680",7.10%
+USA,Sales & Serving Others,Counselors,"43,212","46,020","2,808",6.50%
+USA,Sales & Serving Others,Cashiers,"20,124","21,424","1,300",6.50%
+USA,Sales & Serving Others,Bus drivers,"30,264","32,032","1,768",5.80%
+USA,Sales & Serving Others,Food service,"19,396","19,968",572,2.90%
+USA,Sales & Serving Others,Cooks,"21,060","21,632",572,2.70%
+USA,Sales & Serving Others,Food preparation ,"20,852","21,372",520,2.50%
+USA,Sales & Serving Others,Housekeeping,"20,800","21,008",208,1.00%
+USA,Sales & Serving Others,Stock clerks ,"26,728","26,208",-520,-1.90%
+USA,"Science, Tech & Engineering",Production supervisors,"34,268","48,984","14,716",42.90%
+USA,"Science, Tech & Engineering",Inspectors & testers,"30,056","42,640","12,584",41.90%
+USA,"Science, Tech & Engineering",Production ,"26,104","36,972","10,868",41.60%
+USA,"Science, Tech & Engineering",Engineering,"40,820","55,432","14,612",35.80%
+USA,"Science, Tech & Engineering",Medical scientists,"59,332","75,348","16,016",27.00%
+USA,"Science, Tech & Engineering",Market research,"52,104","65,988","13,884",26.60%
+USA,"Science, Tech & Engineering",IT support,"43,524","54,548","11,024",25.30%
+USA,"Science, Tech & Engineering",Assembly,"26,312","32,916","6,604",25.10%
+USA,"Science, Tech & Engineering",IT & math,"60,580","74,620","14,040",23.20%
+USA,"Science, Tech & Engineering",Diagnostics,"48,880","60,112","11,232",23.00%
+USA,"Science, Tech & Engineering",Physical scientists,"65,624","80,444","14,820",22.60%
+USA,"Science, Tech & Engineering",Architecture ,"60,216","73,476","13,260",22.00%
+USA,"Science, Tech & Engineering",Medical managers,"63,180","75,296","12,116",19.20%
+USA,"Science, Tech & Engineering",Software developers,"75,764","90,272","14,508",19.10%
+USA,"Science, Tech & Engineering",Operations managers,"59,072","70,200","11,128",18.80%
+USA,"Science, Tech & Engineering",Operations analysts,"64,116","75,764","11,648",18.20%
+USA,"Science, Tech & Engineering",Social science,"55,224","64,844","9,620",17.40%
+USA,"Science, Tech & Engineering",IT analysts,"65,468","75,920","10,452",16.00%
+USA,"Science, Tech & Engineering",Programmers,"65,156","75,244","10,088",15.50%
+USA,"Science, Tech & Engineering",IT managers,"79,508","91,676","12,168",15.30%
+USA,"Science, Tech & Engineering",IT,"51,168","58,344","7,176",14.00%
+USA,"Science, Tech & Engineering",Maintenance,"37,700","42,848","5,148",13.70%
+USA,"Science, Tech & Engineering",Compliance officers,"56,784","64,324","7,540",13.30%
+USA,"Science, Tech & Engineering",Civil engineers,"66,300","73,112","6,812",10.30%
+USA,"Science, Tech & Engineering",Machine operators,"24,804","27,144","2,340",9.40%
+USA,"Science, Tech & Engineering",Science techs,"41,860","45,344","3,484",8.30%
+USA,"Science, Tech & Engineering",Lab techs,"42,536","45,656","3,120",7.30%
+USA,"Science, Tech & Engineering",Health technicians,"32,136","32,136", -   ,0.00%
+USA,Senior Managers & Execs,Financial advisors,"52,208","85,124","32,916",63.00%
+USA,Senior Managers & Execs,Financial services,"45,916","70,512","24,596",53.60%
+USA,Senior Managers & Execs,Financial managers,"58,604","86,892","28,288",48.30%
+USA,Senior Managers & Execs,Chief executives,"81,744","116,792","35,048",42.90%
+USA,Senior Managers & Execs,Management analysts,"64,428","86,580","22,152",34.40%
+USA,Senior Managers & Execs,Financial operations,"54,912","73,632","18,720",34.10%
+USA,Senior Managers & Execs,Business operations,"49,088","63,908","14,820",30.20%
+USA,Senior Managers & Execs,Management,"58,604","75,608","17,004",29.00%
+USA,Senior Managers & Execs,Financial analysts,"63,648","77,636","13,988",22.00%
+USA,Senior Managers & Execs,Office supervisor,"39,676","47,788","8,112",20.40%
+UK,Admin & Organisation,Receptionists,"15,732","17,398","1,272",10.60%
+UK,Admin & Organisation,Secretaries,"19,144","20,063",701,4.80%
+UK,Admin & Organisation,Admin,"19,118","24,535","4,135",28.30%
+UK,Admin & Organisation,Stock control,"22,625","26,905","3,267",18.90%
+UK,Admin & Organisation,Records admin,"22,594","28,638","4,614",26.80%
+UK,Admin & Organisation,Finance admin,"22,972","29,852","5,252",29.90%
+UK,Admin & Organisation,Government admin,"25,266","30,192","3,760",19.50%
+UK,Admin & Organisation,Transport clerks ,"26,370","31,808","4,151",20.60%
+UK,Admin & Organisation,Local govt. admin,"25,305","33,400","6,179",32.00%
+UK,Admin & Organisation,Payroll & accounts,"23,467","33,725","7,830",43.70%
+UK,Admin & Organisation,Human resources,"33,243","39,500","4,777",18.80%
+UK,Admin & Organisation,Research & admin,"40,952","45,832","3,725",11.90%
+UK,Admin & Organisation,Accountants,"39,460","52,959","10,305",34.20%
+UK,Admin & Organisation,Housing managers,"37,529","49,388","9,053",31.60%
+UK,Care & Education,Welfare & housing,"25,060","29,259","3,205",16.80%
+UK,Care & Education,Youth & community,"27,878","29,890","1,536",7.20%
+UK,Care & Education,Social care officers,"27,083","33,423","4,840",23.40%
+UK,Care & Education,Housing officers,"30,490","33,609","2,381",10.20%
+UK,Care & Education,Paramedics,"45,541","48,572","2,314",6.70%
+UK,Care & Education,Childcare,"14,531","16,873","1,788",16.10%
+UK,Care & Education,Teaching assistants,"14,320","17,542","2,460",22.50%
+UK,Care & Education,Care workers,"15,987","21,315","4,067",33.30%
+UK,Care & Education,Dental nurses,"18,373","22,757","3,347",23.90%
+UK,Care & Education,Nursing assistants,"19,695","23,423","2,846",18.90%
+UK,Care & Education,Senior care workers,"19,898","25,782","4,492",29.60%
+UK,Care & Education,Ambulance staff ,"25,493","30,295","3,666",18.80%
+UK,Care & Education,School crossing,"3,014","4,217",918,39.90%
+UK,Care & Education,Occupational therapy,"34,482","37,229","2,097",8.00%
+UK,Care & Education,Physiotherapists,"34,380","37,719","2,549",9.70%
+UK,Care & Education,Therapists,"34,356","38,096","2,855",10.90%
+UK,Care & Education,Podiatrists,"36,187","40,032","2,935",10.60%
+UK,Care & Education,Nurses,"34,441","41,679","5,525",21.00%
+UK,Care & Education,Nurses & midwives,"34,682","41,712","5,366",20.30%
+UK,Care & Education,Social workers,"39,166","42,295","2,388",8.00%
+UK,Care & Education,Further education,"35,529","42,415","5,257",19.40%
+UK,Care & Education,Primary education,"38,861","46,016","5,462",18.40%
+UK,Care & Education,Teaching & education,"39,702","48,432","6,664",22.00%
+UK,Care & Education,Secondary education ,"41,505","48,632","5,441",17.20%
+UK,Care & Education,Health professionals,"36,056","50,041","10,675",38.80%
+UK,Care & Education,Higher education,"46,804","58,824","9,176",25.70%
+UK,Care & Education,Education seniors,"60,441","72,518","9,219",20.00%
+UK,Care & Education,Medical practitioners,"58,891","102,213","33,070",73.60%
+UK,Creative & Media,Culture & media,"21,082","31,737","8,134",50.50%
+UK,Creative & Media,Graphic designers,"29,117","33,549","3,383",15.20%
+UK,Creative & Media,Arts & media,"29,787","39,558","7,459",32.80%
+UK,Creative & Media,Designers,"32,783","39,963","5,481",21.90%
+UK,Creative & Media,Arts producers,"41,961","49,675","5,889",18.40%
+UK,Creative & Media,Public relations ,"33,452","37,754","3,284",12.90%
+UK,Creative & Media,Web design,"34,296","37,977","2,810",10.70%
+UK,Creative & Media,Media professionals,"37,446","42,229","3,651",12.80%
+UK,Creative & Media,Business & media,"40,830","48,748","6,044",19.40%
+UK,Creative & Media,Advertising,"44,774","52,510","5,905",17.30%
+UK,Law & Justice,Community police,"33,405","34,429",782,3.10%
+UK,Law & Justice,Prison service,"29,651","37,317","5,852",25.90%
+UK,Law & Justice,Legal associate,"29,665","40,796","8,497",37.50%
+UK,Law & Justice,Protective services,"39,908","44,561","3,552",11.70%
+UK,Law & Justice,Police officers ,"45,477","52,760","5,560",16.00%
+UK,Law & Justice,Senior police ,"78,431","75,588","-2,170",-3.60%
+UK,Law & Justice,Probation officers,"38,995","41,628","2,010",6.80%
+UK,Law & Justice,Solicitors,"49,432","56,327","5,264",14.00%
+UK,Law & Justice,Traffic wardens,"26,230","24,405","-1,393",-7.00%
+UK,Law & Justice,Security,"25,448","26,326",670,3.40%
+UK,Law & Justice,Debt collectors,"19,447","24,023","3,493",23.50%
+UK,Manual Work,Packers,"18,789","23,403","3,522",24.60%
+UK,Manual Work,Agricultural,"15,622","24,180","6,533",54.80%
+UK,Manual Work,Plant operatives,"18,696","24,751","4,622",32.40%
+UK,Manual Work,Trades,"18,491","24,970","4,946",35.00%
+UK,Manual Work,Construction,"24,492","26,779","1,746",9.30%
+UK,Manual Work,Sewing machinists,"17,698","23,173","4,179",30.90%
+UK,Manual Work,Factory operatives,"19,029","24,209","3,954",27.20%
+UK,Manual Work,Process operatives,"19,241","26,674","5,674",38.60%
+UK,Manual Work,Metal working,"21,333","27,435","4,658",28.60%
+UK,Manual Work,Electrical assembly,"22,459","27,995","4,226",24.70%
+UK,Manual Work,AS A WHOLE,"20,181","29,734","7,293",47.30%
+UK,Manual Work,Assemblers ,"20,934","30,642","7,411",46.40%
+UK,Manual Work,Print assistants,"21,117","30,847","7,427",46.10%
+UK,Manual Work,Construction manager,"30,413","45,587","11,583",49.90%
+UK,Manual Work,Skilled agricultural,"19,831","23,980","3,167",20.90%
+UK,Manual Work,Textiles & printing,"16,963","24,587","5,820",44.90%
+UK,Manual Work,Furniture makers,"26,306","26,562",195,1.00%
+UK,Manual Work,Crafts & decorators,"20,026","26,799","5,170",33.80%
+UK,Manual Work,Skilled trades,"19,328","27,096","5,930",40.20%
+UK,Manual Work,Printing & binding,"18,589","27,414","6,737",47.50%
+UK,Manual Work,Textiles,"16,949","28,639","8,924",69.00%
+UK,Manual Work,Leatherwork,"18,531","29,840","8,633",61.00%
+UK,Manual Work,Printing trades,"19,302","30,875","8,835",60.00%
+UK,Manual Work,Metalwork,"19,747","33,463","10,470",69.50%
+UK,Manual Work,Instrument making,"23,517","36,795","10,136",56.50%
+UK,Manual Work,Electrical trades,"30,599","36,992","4,880",20.90%
+UK,Manual Work,Electricians ,"31,574","38,862","5,564",23.10%
+UK,Manual Work,Trade supervisors,"35,957","44,071","6,194",22.60%
+UK,Sales & Serving Others,Caretakers,"16,611","22,967","4,852",38.30%
+UK,Sales & Serving Others,Insurance clerks,"24,437","28,000","2,720",14.60%
+UK,Sales & Serving Others,Bank & post office,"21,658","28,283","5,057",30.60%
+UK,Sales & Serving Others,Careers advisors,"29,091","33,784","3,582",16.10%
+UK,Sales & Serving Others,Vocational trainers,"29,745","35,817","4,635",20.40%
+UK,Sales & Serving Others,Marketing associates,"31,080","38,404","5,591",23.60%
+UK,Sales & Serving Others,Public services ,"33,126","39,696","5,015",19.80%
+UK,Sales & Serving Others,Fire service,"39,014","40,568","1,186",4.00%
+UK,Sales & Serving Others,Buyers ,"35,383","43,035","5,841",21.60%
+UK,Sales & Serving Others,Health & safety ,"39,086","45,092","4,584",15.40%
+UK,Sales & Serving Others,Insurance ,"36,952","45,998","6,905",24.50%
+UK,Sales & Serving Others,Sales & marketing,"36,680","50,122","10,261",36.60%
+UK,Sales & Serving Others,Accounts managers,"37,152","55,691","14,152",49.90%
+UK,Sales & Serving Others,Sales accounts,"46,438","59,420","9,910",28.00%
+UK,Sales & Serving Others,Housekeeping,"14,842","22,402","5,771",50.90%
+UK,Sales & Serving Others,Undertakers,"20,530","23,038","1,914",12.20%
+UK,Sales & Serving Others,Cleaning managers,"16,103","24,222","6,198",50.40%
+UK,Sales & Serving Others,Leisure & travel,"18,743","24,813","4,633",32.40%
+UK,Sales & Serving Others,Travel agents,"19,616","29,482","7,531",50.30%
+UK,Sales & Serving Others,Rail travel clerks,"34,731","41,298","5,013",18.90%
+UK,Sales & Serving Others,Bar staff,"7,320","9,917","1,982",35.50%
+UK,Sales & Serving Others,Cleaners & domestics,"7,943","11,573","2,771",45.70%
+UK,Sales & Serving Others,Elementary services,"9,301","11,988","2,051",28.90%
+UK,Sales & Serving Others,Kitchen & catering,"10,198","12,994","2,134",27.40%
+UK,Sales & Serving Others,Cleaning occupations,"8,180","15,309","5,442",87.20%
+UK,Sales & Serving Others,Shelf fillers,"13,101","17,439","3,311",33.10%
+UK,Sales & Serving Others,Valeters,"19,890","19,168",-551,-3.60%
+UK,Sales & Serving Others,Storage,"18,685","24,466","4,413",30.90%
+UK,Sales & Serving Others,Refuse ,"16,468","25,269","6,718",53.40%
+UK,Sales & Serving Others,Postal workers,"21,357","30,096","6,671",40.90%
+UK,Sales & Serving Others,Restaurant managers,"25,071","29,372","3,283",17.20%
+UK,Sales & Serving Others,Hospitality managers,"27,644","32,797","3,934",18.60%
+UK,Sales & Serving Others,Van drivers,"16,469","23,860","5,642",44.90%
+UK,Sales & Serving Others,Lorry drivers,"19,083","28,481","7,174",49.20%
+UK,Sales & Serving Others,Bus & coach drivers,"24,311","28,926","3,523",19.00%
+UK,Sales & Serving Others,Drivers,"54,749","53,052","-1,295",-3.10%
+UK,Sales & Serving Others,Train & tram drivers,"63,433","62,805",-479,-1.00%
+UK,Sales & Serving Others,Welfare officers,"38,082","33,692","-3,351",-11.50%
+UK,Sales & Serving Others,Pharmacists,"44,591","58,366","10,515",30.90%
+UK,Sales & Serving Others,Cashiers,"10,359","13,045","2,050",25.90%
+UK,Sales & Serving Others,Sales assistants,"10,280","15,353","3,873",49.40%
+UK,Sales & Serving Others,Retail cashiers,"10,586","15,758","3,948",48.90%
+UK,Sales & Serving Others,Sales,"11,130","17,409","4,793",56.40%
+UK,Sales & Serving Others,Call centres,"18,793","20,251","1,113",7.80%
+UK,Sales & Serving Others,Customer services,"17,906","22,905","3,816",27.90%
+UK,Sales & Serving Others,Sales supervisors,"20,898","25,071","3,185",20.00%
+UK,Sales & Serving Others,Car sales,"21,823","27,253","4,145",24.90%
+UK,Sales & Serving Others,Communications,"31,861","38,640","5,175",21.30%
+UK,Sales & Serving Others,Service managers,"30,932","39,024","6,177",26.20%
+UK,Sales & Serving Others,Cooks,"12,674","16,245","2,726",28.20%
+UK,Sales & Serving Others,Chefs,"20,678","23,013","1,782",11.30%
+UK,Sales & Serving Others,Food preparation,"16,478","23,053","5,019",39.90%
+UK,Sales & Serving Others,Bakers,"18,551","23,478","3,761",26.60%
+UK,Sales & Serving Others,Catering managers,"20,574","24,900","3,303",21.00%
+UK,Sales & Serving Others,Vehicle trades,"30,287","33,105","2,151",9.30%
+UK,"Science, Tech & Engineering",Conservation workers,"28,959","30,769","1,382",6.30%
+UK,"Science, Tech & Engineering",Lab technicians,"21,577","31,563","7,623",46.30%
+UK,"Science, Tech & Engineering",Pharmaceutical techs,"24,912","34,005","6,941",36.50%
+UK,"Science, Tech & Engineering",Town planners,"38,230","36,320","-1,458",-5.00%
+UK,"Science, Tech & Engineering",IT technicians,"31,344","37,250","4,508",18.80%
+UK,"Science, Tech & Engineering",Medical technicians,"26,463","37,797","8,652",42.80%
+UK,"Science, Tech & Engineering",IT user support,"30,544","37,888","5,606",24.00%
+UK,"Science, Tech & Engineering",Science technicians,"25,397","38,345","9,884",51.00%
+UK,"Science, Tech & Engineering",Production techs,"29,040","40,524","8,766",39.50%
+UK,"Science, Tech & Engineering",Engineering techs,"35,044","44,180","6,974",26.10%
+UK,"Science, Tech & Engineering",Animal control,"19,493","25,165","4,330",29.10%
+UK,"Science, Tech & Engineering",Routine inspectors,"23,623","32,791","6,998",38.80%
+UK,"Science, Tech & Engineering",Machine operatives,"18,096","33,117","11,466",83.00%
+UK,"Science, Tech & Engineering",Chemical operatives,"20,750","33,756","9,928",62.70%
+UK,"Science, Tech & Engineering",Environment,"36,390","39,422","2,314",8.30%
+UK,"Science, Tech & Engineering",Conservation ,"33,431","39,487","4,623",18.10%
+UK,"Science, Tech & Engineering",Medical radiographer,"38,025","42,600","3,492",12.00%
+UK,"Science, Tech & Engineering",Environmental health,"38,925","42,642","2,837",9.50%
+UK,"Science, Tech & Engineering",Town planning,"32,788","43,137","7,900",31.60%
+UK,"Science, Tech & Engineering",Chartered surveyors,"37,064","45,240","6,241",22.10%
+UK,"Science, Tech & Engineering",Quality control,"41,886","46,606","3,603",11.30%
+UK,"Science, Tech & Engineering",Architects,"39,114","47,168","6,148",20.60%
+UK,"Science, Tech & Engineering",Social scientists,"41,929","47,511","4,261",13.30%
+UK,"Science, Tech & Engineering",Natural scientists,"41,265","47,641","4,867",15.50%
+UK,"Science, Tech & Engineering",Quality & regulatory ,"44,989","48,296","2,524",7.30%
+UK,"Science, Tech & Engineering",Production engineers,"41,615","48,685","5,397",17.00%
+UK,"Science, Tech & Engineering",Biological sciences,"41,971","49,914","6,063",18.90%
+UK,"Science, Tech & Engineering",Design engineers,"38,534","50,329","9,004",30.60%
+UK,"Science, Tech & Engineering",Quality assurance ,"45,921","50,854","3,766",10.70%
+UK,"Science, Tech & Engineering",Civil engineers,"39,918","50,967","8,434",27.70%
+UK,"Science, Tech & Engineering",Engineering ,"42,136","51,053","6,807",21.20%
+UK,"Science, Tech & Engineering",Quantity surveyors,"42,050","52,103","7,674",23.90%
+UK,"Science, Tech & Engineering",Science & technology,"42,575","52,186","7,337",22.60%
+UK,"Science, Tech & Engineering",Programmers,"44,505","52,590","6,172",18.20%
+UK,"Science, Tech & Engineering",IT & telecoms,"44,822","53,904","6,933",20.30%
+UK,"Science, Tech & Engineering",Systems & analysis,"47,075","55,089","6,118",17.00%
+UK,"Science, Tech & Engineering",Electrical engineers,"55,805","56,830",783,1.80%
+UK,"Science, Tech & Engineering",IT specialists,"44,995","59,965","11,428",33.30%
+UK,"Science, Tech & Engineering",Project managers,"44,941","60,616","11,966",34.90%
+UK,"Science, Tech & Engineering",IT project managers,"50,844","67,941","13,051",33.60%
+UK,"Science, Tech & Engineering",Aircraft maintenance,"33,674","45,293","8,870",34.50%
+UK,"Science, Tech & Engineering",Inspectors,"30,307","39,330","6,888",29.80%
+UK,Senior Managers & Execs,Credit controllers,"25,916","29,797","2,963",15.00%
+UK,Senior Managers & Execs,Finance officers,"28,472","30,503","1,551",7.10%
+UK,Senior Managers & Execs,Office supervisors,"28,248","35,290","5,376",24.90%
+UK,Senior Managers & Execs,Office managers,"33,440","43,289","7,518",29.50%
+UK,Senior Managers & Execs,Business,"30,160","39,776","7,340",31.90%
+UK,Senior Managers & Execs,Business execs,"30,936","41,920","8,385",35.50%
+UK,Senior Managers & Execs,Business associates,"34,495","47,160","9,668",36.70%
+UK,Senior Managers & Execs,Finance & business,"34,694","47,790","9,997",37.70%
+UK,Senior Managers & Execs,Finance & investing,"37,478","48,955","8,761",30.60%
+UK,Senior Managers & Execs,Taxation experts,"47,363","55,488","6,202",17.20%
+UK,Senior Managers & Execs,Finance technicians,"36,831","61,130","18,549",66.00%
+UK,Senior Managers & Execs,Agricultural manager,"34,060","34,283",170,0.70%
+UK,Senior Managers & Execs,Leisure managers,"32,683","34,289","1,226",4.90%
+UK,Senior Managers & Execs,Hotel managers,"24,414","35,088","8,148",43.70%
+UK,Senior Managers & Execs,Retail managers,"25,402","37,542","9,267",47.80%
+UK,Senior Managers & Execs,Warehouse managers,"30,771","38,585","5,965",25.40%
+UK,Senior Managers & Execs,Managers,"32,698","39,258","5,008",20.10%
+UK,Senior Managers & Execs,Logistics managers,"32,978","41,781","6,720",26.70%
+UK,Senior Managers & Execs,Care managers,"36,904","43,092","4,724",16.80%
+UK,Senior Managers & Execs,Proprietors,"34,365","44,568","7,788",29.70%
+UK,Senior Managers & Execs,Health proprietors,"36,605","44,970","6,385",22.90%
+UK,Senior Managers & Execs,Waste managers,"42,681","49,346","5,088",15.60%
+UK,Senior Managers & Execs,Practice managers,"35,711","50,464","11,262",41.30%
+UK,Senior Managers & Execs,Production managers,"43,107","55,241","9,263",28.10%
+UK,Senior Managers & Execs,Corporate directors,"43,227","57,526","10,915",33.10%
+UK,Senior Managers & Execs,Health directors,"50,131","59,023","6,788",17.70%
+UK,Senior Managers & Execs,Functional managers,"40,784","60,640","15,157",48.70%
+UK,Senior Managers & Execs,Healthcare managers,"52,852","61,477","6,584",16.30%
+UK,Senior Managers & Execs,Purchasing managers,"54,098","63,031","6,819",16.50%
+UK,Senior Managers & Execs,HR managers,"51,415","66,176","11,268",28.70%
+UK,Senior Managers & Execs,Protective services,"60,390","71,891","8,780",19.00%
+UK,Senior Managers & Execs,Functional directors,"55,319","78,600","17,772",42.10%
+UK,Senior Managers & Execs,IT directors,"82,960","78,882","-3,113",-4.90%
+UK,Senior Managers & Execs,Bank managers,"48,639","82,704","26,004",70.00%
+UK,Senior Managers & Execs,Financial managers,"54,577","86,460","24,338",58.40%
+UK,Senior Managers & Execs,Sales directors,"76,144","90,936","11,292",19.40%
+UK,Senior Managers & Execs,CEOs,"77,353","113,382","27,503",46.60%
+UK,Senior Managers & Execs,Business & research,"41,426","53,158","8,956",28.30%
+UK,Senior Managers & Execs,Business analysts,"43,957","53,185","7,044",21.00%
+UK,Senior Managers & Execs,Economists,"55,551","57,814","1,728",4.10%
+UK,Senior Managers & Execs,Valuers & assessors,"28,667","39,132","7,989",36.50%
