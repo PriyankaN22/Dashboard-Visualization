@@ -148,3 +148,17 @@ Biases accumulate over time. Workplaces often base new hires’ compensation on 
 Women are less aggressive in negotiating and when they try they meet more resistance. Women should be armed with data knowing what their worth is. There are various online tools which can help to get this information. 
 
 Lastly, women should learn to negotiate and speak for themselves. 
+
+
+### References:
+
+http://www.informationisbeautiful.net/visualizations/gender-pay-gap/   
+
+https://www.bls.gov/cps/lfcharacteristics.htm#occind 
+  
+https://www.forbes.com/sites/jeffkauflin/2017/04/04/why-the-pay-gap-widens-as-women-get-older/#781c32112ad5
+
+https://www.nytimes.com/2017/05/13/upshot/the-gender-pay-gap-is-largely-because-of-motherhood.html
+
+https://www.forbes.com/sites/jeffkauflin/2017/04/04/why-the-pay-gap-widens-as-women-get-older/#719a2cd82ad5
+
