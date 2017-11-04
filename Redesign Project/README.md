@@ -122,6 +122,7 @@ Putting all of these three charts on one dashboard is the best way to make this 
 We will divide the actions as per the target audience:
 
 - _Government:_ 
+
 The visualization puts light on an important issue of pay bias. The results found under this visualization would be of great help for government to come up with better policies for women welfare. 
 
 Providing subsidized child-care and moderate-length parental leave can be the other remedy to curb the pay gap. 
@@ -129,6 +130,7 @@ Providing subsidized child-care and moderate-length parental leave can be the ot
 Lawmakers should publicly set goals for hiring and promoting women to higher positions if they are capable. 
 
 - _Workplaces:_ 
+
 Hiring managers should insist for fairness in pay for both men and women. 
 
 They should use blind screening to remove gender identifiers when selecting candidates for interviews; and support equal-paid parental leave for men and women. 
@@ -138,6 +140,7 @@ Workplaces should not generalize and assume that a woman will be less committed 
 Firms should conduct regular salary audits to look for gender and race-based inequities. 
 
 - _General public and individuals:_ 
+
 Equal division of household duties should be incorporated. Men should contribute equally in household chores. 
 
 Biases accumulate over time. Workplaces often base new hires’ compensation on their most recent salary. Since women are generally paid less than men, that difference gets exacerbated at every new job they take. 
