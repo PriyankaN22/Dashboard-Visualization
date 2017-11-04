@@ -106,7 +106,7 @@ To improve this version and to provide backing for the claim, I added two more d
 
 ![Alt text](https://github.com/PriyankaN22/Dashboard-Visualization/blob/master/Images/v4.0.PNG)
 
-First chart is plotted by average pay gap against each occupational category. It has been observed that women in management and legal profession earn highest salaries, ironically, this is the category with the maximum wage gap. Though these women earn high salary, it is way less than what they deserve and what their male colleagues get paid. Senior managers and executives have 38% average pay gap and legal professionals have 30% average pay gap. 
+First chart is plotted by average pay gap against each occupational category. Size of the square indicates the average salary of a woman PA. It has been observed that women in management and legal profession earn highest salaries, ironically, this is the category with the maximum wage gap. Though these women earn high salary, it is way less than what they deserve and what their male colleagues get paid. Senior managers and executives have 38% average pay gap and legal professionals have 30% average pay gap. 
 
 Second chart is plotted by age group against number of women working for this category. Most of the women are of age between 35 to 54 years. 48% of women working in this field are of age between 34 to 54 years. Qualification and experience doesn’t always lead to higher pay. This proves that the more years a woman spends in the workforce, in other words, as the woman gets older, the bigger the gap gets between her and her equally experienced male colleagues.
 
