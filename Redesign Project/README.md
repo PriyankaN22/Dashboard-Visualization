@@ -114,6 +114,9 @@ These two charts provide the backing to our claim that “Gender pay gap increas
 
 #### - Final version: 
 
+https://public.tableau.com/profile/priyanka.n4310#!/vizhome/Book2_copy/Dashboard3?publish=yes
+
+
 Putting all of these three charts on one dashboard is the best way to make this visulization persuasive. First graph gives the holistic view about the behaviour of wage bias with age. Second and third graph provides the backing for claim by providing more information about the gap for each job category and by highlighting the number of women with the highest pay gap in each age group respectively. 
 
 
