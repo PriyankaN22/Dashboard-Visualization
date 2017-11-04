@@ -155,6 +155,14 @@ Women are less aggressive in negotiating and when they try they meet more resist
 
 Lastly, women should learn to negotiate and speak for themselves. 
 
+### Future enhancements:
+
+We can add Gender Inequality Index(GII) in this visualization to convey the impact of gender pay gap on women’s overall growth. The index shows the loss in potential human development due to disparity between female and male achievements in two dimensions, empowerment and economic status, and reflects a country’s position relative to normative ideals for the key dimension of women’s health. Overall, the GII reflects how women are disadvantaged in these dimensions.
+
+
+We can also develop a similar visualization for UK and other countries to see if the trend is same for other countries too.  
+
+
 
 ### References:
 
@@ -167,4 +175,7 @@ https://www.forbes.com/sites/jeffkauflin/2017/04/04/why-the-pay-gap-widens-as-wo
 https://www.nytimes.com/2017/05/13/upshot/the-gender-pay-gap-is-largely-because-of-motherhood.html
 
 https://www.forbes.com/sites/jeffkauflin/2017/04/04/why-the-pay-gap-widens-as-women-get-older/#719a2cd82ad5
+
+http://hdr.undp.org/en/faq-page/gender-inequality-index-gii#t294n2424
+
 
