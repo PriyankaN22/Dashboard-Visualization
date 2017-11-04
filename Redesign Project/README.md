@@ -37,7 +37,7 @@ Hence, I took salaries of men and women serving the same occupation as my second
 Data for the original visualization is was obtained from US Bureau of Labor Statistics, UK Office of National Statistics and The Guardian Datablog. The salaries shown here are for Full-time employees in Year 2016. Due to lack of data, part-time or freelance salaries are not covered as part of this visualization. I picked this as my first dataset, as it was already clean, there was no need of data wrangling. I did make minor formatting changes to make it easily readable by Tableau.
 
 
-Dataset1:
+- Dataset1:
 
 Source for original: http://www.informationisbeautiful.net/visualizations/gender-pay-gap/
 
@@ -46,7 +46,7 @@ Also uploaded at https://github.com/PriyankaN22/Dashboard-Visualization/blob/mas
 My version: https://github.com/PriyankaN22/Dashboard-Visualization/blob/master/Redesign%20Project/Datasets/Gender%20Pay%20PAN.csv
 
 
-Dataset2: 
+- Dataset2: 
 Second dataset is median weekly earnings of men and women in Year 2016 all the age groups. Again, the data considered here is for full-time employees only. 
 
 Source for original: https://www.bls.gov/cps/earnings.htm
@@ -56,7 +56,7 @@ Also uploaded at https://github.com/PriyankaN22/Dashboard-Visualization/blob/mas
 My version: https://github.com/PriyankaN22/Dashboard-Visualization/blob/master/Redesign%20Project/Datasets/Age%20analysis.xlsx
 
 
-Dataset 3: Occupational categories “Management” and “Legal” has the maximum wage gap. Hence I tried to research on the number of women from each age group working for above two categories. I have combined the two categories into one.
+- Dataset 3: Occupational categories “Management” and “Legal” has the maximum wage gap. Hence I tried to research on the number of women from each age group working for above two categories. I have combined the two categories into one.
 
 Source for original: https://www.bls.gov/cps/earnings.htm
 
@@ -66,26 +66,26 @@ My version: https://github.com/PriyankaN22/Dashboard-Visualization/blob/master/R
 
 #### Visualization:
 
-#### Claim: 
+#### - Claim: 
 Gender pay gap increases with age
 
-#### Qualifier: 
+#### - Qualifier: 
 Average earnings of men and women working full-time in US.
 
-#### Warrant: 
+#### - Warrant: 
 Management and legal category has the widest wage gap. Most of the women working in this field are of age between 35 to 54 years. Almost 6,208 women are between the age group 35 to 44 years which forms almost 23% of the overall count. As the age increases, count of women also increases raising the percentage from 23% to 25%. This proves our claim(shown in the first chart on the dashboard) that pay gap increases as the women get older.
 
-#### Backing: 
+#### - Backing: 
 Third graph on the dashboard(Number of women of each age group working in Management and Legal category) provides the backing for our claim.
 
 https://www.thebalance.com/understanding-the-gender-wage-gap-in-the-legal-profession-4000621
 
 https://www.wgea.gov.au/media-releases/gender-pay-gap-biggest-manager-ranks
 
-#### Reservations: 
+#### - Reservations: 
 The claim is formed only on the basis of salaries of full-time employees. Earnings of part-time employees may alter the visualization data.
 
-#### Version 1.0:
+#### - Version 1.0:
 
 ![Alt text](https://github.com/PriyankaN22/Dashboard-Visualization/blob/master/Images/v1.0.PNG)
 
@@ -102,7 +102,7 @@ Furthur, surprisingly, after the age of 35, earning of a man increases till the 
 
 To improve this version and to provide backing for the claim, I added two more datasets to analyze the pay gap in each occupational category and number of women working in late 20s & 30s for the category with maximum pay gap.
 
-#### Version 2.0:
+#### - Version 2.0:
 
 ![Alt text](https://github.com/PriyankaN22/Dashboard-Visualization/blob/master/Images/v4.0.PNG)
 
@@ -112,7 +112,7 @@ Second chart is plotted by age group against number of women working for this ca
 
 These two charts provide the backing to our claim that “Gender pay gap increases with age”. 
 
-#### Final version: 
+#### - Final version: 
 
 Putting all of these three charts on one dashboard is the best way to make this visulization persuasive. First graph gives the holistic view about the behaviour of wage bias with age. Second and third graph provides the backing for claim by providing more information about the gap for each job category and by highlighting the number of women with the highest pay gap in each age group respectively. 
 
@@ -121,18 +121,18 @@ Putting all of these three charts on one dashboard is the best way to make this 
 
 We will divide the actions as per the target audience:
 
-_Government:_ 
+- _Government:_ 
 The visualization puts light on an important issue of pay bias. The results found under this visualization would be of great help for government to come up with better policies for women welfare. 
 Providing subsidized child-care and moderate-length parental leave can be the other remedy to curb the pay gap. 
 Lawmakers should publicly set goals for hiring and promoting women to higher positions if they are capable. 
 
-_Workplaces:_ 
+- _Workplaces:_ 
 Hiring managers should insist for fairness in pay for both men and women. 
 They should use blind screening to remove gender identifiers when selecting candidates for interviews; and support equal-paid parental leave for men and women. 
 Workplaces should not generalize and assume that a woman will be less committed due to her family responsibilities. 
 Firms should conduct regular salary audits to look for gender and race-based inequities. 
 
-_General public and individuals:_ 
+- _General public and individuals:_ 
 Equal division of household duties should be incorporated. Men should contribute equally in household chores. 
 Biases accumulate over time. Workplaces often base new hires’ compensation on their most recent salary. Since women are generally paid less than men, that difference gets exacerbated at every new job they take. 
 Women are less aggressive in negotiating and when they try they meet more resistance. Women should be armed with data knowing what their worth is. There are various online tools which can help to get this information. 
