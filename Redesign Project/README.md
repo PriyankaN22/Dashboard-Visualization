@@ -83,7 +83,7 @@ https://www.thebalance.com/understanding-the-gender-wage-gap-in-the-legal-profes
 https://www.wgea.gov.au/media-releases/gender-pay-gap-biggest-manager-ranks
 
 #### - Reservations: 
-The claim is formed only on the basis of salaries of full-time employees. Earnings of part-time employees may alter the visualization data.
+The claim is formed only on the basis of salaries of full-time employees. Earnings of part-time employees may alter the visualization.
 
 #### - Version 1.0:
 
