@@ -10,3 +10,5 @@ In this assignment we are going to work on two datasets.
 1. We are going to take the first dataset from last assginment.
 
 2.  For second dataset we are going to use Yahoo Query Tool to extract the stock price for the companies from Yahoo Finance in the first dataset.
+
+For actual assignment please refer the Jupyter file.
