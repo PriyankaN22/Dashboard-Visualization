@@ -178,4 +178,8 @@ https://www.forbes.com/sites/jeffkauflin/2017/04/04/why-the-pay-gap-widens-as-wo
 
 http://hdr.undp.org/en/faq-page/gender-inequality-index-gii#t294n2424
 
+### Video Presentation: 
+https://drive.google.com/open?id=11sDwmON4FGJzlAOlB7aHeVmIH-Q4wKP8
+
+
 
