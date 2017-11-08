@@ -3,6 +3,7 @@
 ### Objective:
 
 Develop persuasive visualization for data breaches and its impact on stocks over last 13 years. Perform data wrangling to read JSON symbols from Yahoo Query Tool to extract and clean stock price data of various companies from Yahoo Finance.
+
 --------------------------------------------------------------------------------------------------------------------------------------
 ### Datasets:
 In this assignment we are going to work on two datasets.
