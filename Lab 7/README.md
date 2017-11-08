@@ -11,9 +11,12 @@ In this assignment we are going to work on two datasets.
 1. We are going to take the first dataset from last assginment.
 
 2.  For second dataset we are going to use Yahoo Query Tool to extract the stock price for the companies from Yahoo Finance in the first dataset.
+
 --------------------------------------------------------------------------------------------------------------------------------------
+
 #### Target Audience:
 Finance and Security personnel, organization
+
 --------------------------------------------------------------------------------------------------------------------------------------
 #### Claim: 
 The financial markets do not punish security breaches
@@ -25,6 +28,7 @@ Backing:
 #### Reservations: 
 The stock price we have taken here is average stock price for the year. We don’t know what was the immediate impact on the stock right after the breach. It may have dropped after the incident and then again the stock price would have spiked through because of some other factors.
 So, it is inappropriate to say based on the data that we have, that financial markets do not punish security breaches.
+
 -------------------------------------------------------------------------------------------------------------------------------------
 #### Perception:
 Security breach incidents for each company and the number of records lost
@@ -34,6 +38,7 @@ Comparision between average stock price of the year in which the breach happened
 
 --------------------------------------------------------------------------------------------------------------------------------------
 #### _For actual assignment please refer the Jupyter file.
+
 --------------------------------------------------------------------------------------------------------------------------------------
 ### Scope of Improvement/Future Enhancements:
 
