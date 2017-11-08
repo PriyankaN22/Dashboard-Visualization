@@ -5,7 +5,7 @@
 Develop persuasive visualization for data breaches and its impact on stocks over last 13 years. Perform data wrangling to read JSON symbols from Yahoo Query Tool to extract and clean stock price data of various companies from Yahoo Finance.
 
 --------------------------------------------------------------------------------------------------------------------------------------
-### Datasets:
+#### Datasets:
 In this assignment we are going to work on two datasets.
 
 1. We are going to take the first dataset from last assginment.
@@ -33,14 +33,15 @@ So, it is inappropriate to say based on the data that we have, that financial ma
 #### Perception:
 Security breach incidents for each company and the number of records lost
 
-### Comprehension:
+
+#### Comprehension:
 Comparision between average stock price of the year in which the breach happened with the average stock price for the previous year in order to find out the changes in stock. This comparision is used to analyze if the breach affected the financial positio n of the company or not.
 
 --------------------------------------------------------------------------------------------------------------------------------------
-#### _For actual assignment please refer the Jupyter file.
+#### _For actual assignment please refer the Jupyter file._
 
 --------------------------------------------------------------------------------------------------------------------------------------
-### Scope of Improvement/Future Enhancements:
+#### Scope of Improvement/Future Enhancements:
 
 There is a lot of scope of improvement in the Lab 3 version of visualization.
 Below are some the points which I can improve on:
@@ -65,7 +66,6 @@ We will try to focus on the content now.
 
 4. Effect of security breaches can be different for different organisations. For example, impact can be severe for banking and finance as compared to web organisations. Hence, it is a good idea to implement this point in visualization and categorise the companies based on their organisations. 
 
-#### Audience fear:
 
 Tableau Link: https://public.tableau.com/profile/priyanka.n4310#!/vizhome/DatabreachesvsFinancialposition/Dashboard2?publish=yes
 You can find the Jupyter file in the same directory.
