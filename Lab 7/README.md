@@ -69,7 +69,7 @@ We will try to focus on the content now.
 
 Tableau Link: https://public.tableau.com/profile/priyanka.n4310#!/vizhome/DatabreachesvsFinancialposition/Dashboard2?publish=yes
 
-You can find the Jupyter file in the same directory.
+Please find the Jupyter file in the same directory.
 
 
                                                                                                  by Priyanka N
