@@ -1,7 +1,6 @@
-Visualizations for world's Biggest Data Breaches
+This repository has visualizations which I worked on. 
 
-https://public.tableau.com/profile/priyanka.n4310#!/vizhome/DataBreaches_2017update/Dashboard1?publish=yes
+The visualizations are for various topics such as security data breaches over the last 13 years, impact of breaches on the financial position of the company, MSIS dashboard for Santa Clara University, Gender Pay Gap in US, etc.
 
-Please refer each directory for individual project and visualization
-
+Please refer to each directory for visualization and Python code used for data wrangling
 
