@@ -27,6 +27,8 @@ In this version, I have integrated three dataset to compare and contrast the cha
 
 3. Previous version had a lot of clutter and unnecessary visuals. I have removed them to make this version more polished.
 
+4. Python code can be improved to make it reproducible.
+
 #### Glance at this version
 
 This version integrates three metrics - rankings, acceptance rate and teacher to student ratio. 
@@ -45,6 +47,8 @@ Acceptance rate shows the quality of education. Lower the acceptance rate, bette
 
 #### Analysis:
 Santa Clara University has a very good ranking(#88), teacher to student ratio(0.091) and acceptance rate(51%) as compared to other universities in Silicon Valley except UC Berkeley and Stanford University. Stanford and UC Berkeley has a ranking better than that of SCU, but their acceptance rate is way lower. Though lower acceptance rate corresponds to high quality education, very low acceptance rate shows that it is very difficult to get into these universities. Only 4% people can get into Stanford and only 17.5% people can get into UC Berkeley. If we consider the overall population of prospective students, very small percentage of students can actually get into these Ivy League institutions. For all other students, Santa Clara University is the best option. Over the years university has proved its excellence. It is located in the heart of Silicon Valley, providing wide range of employment opportunities for students. SCU degree makes students highly competitive in the marketplace, as the alumni are known for their solid business acumen, astute judgement and principled management.
+
+Note - I could not make any changes in the Jupyter file because of time constraints, but I have documented all the improvements for that version of Jupyter notebook.
 
 
 
