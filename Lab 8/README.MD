@@ -51,7 +51,7 @@ Santa Clara University has a very good ranking(#88), teacher to student ratio(0.
 Note - I could not make any changes in the Jupyter file because of time constraints, but I have documented all the improvements for that version of Jupyter notebook.
 
 
-
+                                                                                    - by Priyanka Nirpase
 
 
 
