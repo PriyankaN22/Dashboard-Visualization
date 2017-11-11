@@ -7,7 +7,7 @@ Prospective students
 Santa Clara University is the best amongst all the universities in Silicon Valley to pursue MSIS course
 
 #### Qualifier:
-Universities in bay area:
+Universities in Silicon Valley:
 Santa Clara University
 San Jose State university
 CSU Fullerton
