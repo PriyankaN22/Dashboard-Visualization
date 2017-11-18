@@ -30,14 +30,26 @@ Also uploaded at: https://github.com/PriyankaN22/Dashboard-Visualization/blob/ma
 #### Phase 1:
 Data exploration and development of a basic prototype
 
-After selecting a topic, I started exploring data. https://ourworldindata.org/ provided a very good quality data which was needed for our analysis. They have used CDIAC(Carbon Dioxide Information Analysis Center) - http://cdiac.ess-dive.lbl.gov/trends/emis/meth_reg.html as the main source to extract and collate CO2 emissions from various factors. 
+After selecting a topic, I started exploring data. https://ourworldindata.org/ provided a good quality data which was needed for this analysis. This site has used CDIAC(Carbon Dioxide Information Analysis Center) - http://cdiac.ess-dive.lbl.gov/trends/emis/meth_reg.html as the main source to extract and collate CO2 emissions from various factors. As the data was already clean and in required format, there was no need to perform data wrangling. I used this data as it is.
 
 At the beginning, I wanted to understand the overall trend of CO2 emission. Hence, I plotted a graph of average cumulative CO2 emissions for last 150 years for all the countries. The graph showed that CO2 emission is increasing rapidly over the years with 2014 being the year of highest emission. Please refer below.
 
-Disadvantage: This version provides us the holistic view and indicates the overall trend, however, it does not provide any parameter to develop an action plan.
-
-
 <img width="548" alt="v1 0" src="https://user-images.githubusercontent.com/31669563/32976233-00fa2e8c-cbc7-11e7-9f96-d51b439ffe82.PNG">
+
+
+These findings helped me form a base for developing a claim. Hence, I developed following model.
+
+Claim: CO2 emission is increasing rapidly all over the world.
+
+Qualifier: Average CO2 emission for all the countries in the world.
+
+Warrant: According to  World Meteorological Organisation (WMO), surging carbon dioxide levels have pushed greenhouse gases to records high in the atmosphere. The concentration has increased at its fastest rate for 30 years in 2013. These facts show that average CO2 emission is rapidly increasing all over the world
+
+Backing: https://www.theguardian.com/environment/2014/sep/09/carbon-dioxide-emissions-greenhouse-gases
+
+Disadvantage: This version provides us the holistic view and indicates the overall trend, however, it is difficult to target a particular parameter in order to develop action plans.
+
+
 
 
 
