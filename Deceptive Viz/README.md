@@ -15,7 +15,7 @@ There is a strong need of determining mitigating strategies that seek to hold in
 ## Objective of visualization:
 
 The world’s countries contribute different amounts of CO2 to atmosphere. We cannot solve the climate change problem without participation of all the countries. In order to figure out the steps necessary to reduce global emissions of greenhouse gases in an effort to check global climate change, it is important to study the CO2 emissions by each country. Formulation of targets for emissions reduction for all countries based on the principle of “common but differentiated responsibilities” depends primarily on the quantitative attribution of the responsibilities of developed and developing countries for historical climate change. So, we have divided our analysis into two groups – developed and developing countries. 
-The visualization will present the CO2 emissions for last 150 years for developing and developed countries. 
+The visualization will present the CO2 emissions for last 160 years for developing and developed countries. 
 
 ## Datasets:
 
@@ -24,3 +24,14 @@ Here, we have taken CO2 emissions(measured in  million tons) since 1751 till 201
 Source: https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions/#the-long-run-history-cumulative-co2
 
 Also uploaded at: https://github.com/PriyankaN22/Dashboard-Visualization/blob/master/Deceptive%20Viz/cumulative-co-emissions.csv
+
+## Roadmap:
+### Phase 1: 
+#### Work accomplished: 
+Developed a basic prototype
+
+At the beginning, I wanted to understand the overall trend of CO2 emission. Hence, I plotted a graph of average cumulative CO2 emissions for last 150 years for all the countries. The graph showed that CO2 emission is increasing rapidly over the years with 2014 being the year of highest emission. Please refer below.
+
+<img width="548" alt="v1 0" src="https://user-images.githubusercontent.com/31669563/32976233-00fa2e8c-cbc7-11e7-9f96-d51b439ffe82.PNG">
+
+
