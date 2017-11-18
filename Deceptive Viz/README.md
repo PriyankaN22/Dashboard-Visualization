@@ -12,13 +12,15 @@ Among the major challenges affecting the world today, climate change and destruc
 
 There is a strong need of determining mitigating strategies that seek to hold individuals and nations accountable for their historic emissions. For that, it is a good idea to divide the countries into two groups – developing nations and developed nations. In this visualization, we will try to understand the relative contribution of each group which will us come up with an action plan to reduce the CO2 emission. 
 
+## Objective of visualization:
+
+The world’s countries contribute different amounts of CO2 to atmosphere. We cannot solve the climate change problem without participation of all the countries. In order to figure out the steps necessary to reduce global emissions of greenhouse gases in an effort to check global climate change, it is important to study the CO2 emissions by each country. Formulation of targets for emissions reduction for all countries based on the principle of “common but differentiated responsibilities” depends primarily on the quantitative attribution of the responsibilities of developed and developing countries for historical climate change. So, we have divided our analysis into two groups – developed and developing countries. 
+The visualization will present the CO2 emissions for last 150 years for developing and developed countries. 
+
 ## Datasets:
 
 Here, we have taken CO2 emissions(measured in  million tons) since 1751 till 2013 for almost all the countries in the world.
 
 Source: https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions/#the-long-run-history-cumulative-co2
 
-<img width="477" alt="data" src="https://user-images.githubusercontent.com/31669563/32974853-9b8d58e0-cbb6-11e7-9b93-9f256c5f3c9a.PNG">
-
-
-
+Also uploaded at: https://github.com/PriyankaN22/Dashboard-Visualization/blob/master/Deceptive%20Viz/cumulative-co-emissions.csv
