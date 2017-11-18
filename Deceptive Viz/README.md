@@ -95,8 +95,10 @@ International agreements like Kyoto protocol should be strictly enforced to foll
 
 General public in these countries should be made aware about increasing CO2 levels. As per the saying “Change should start from within”, every individual should consider climate change as their own problem and should try to support global effort by contributing on individual level.  Some of the ways an individual can reduce emissions is are:
 
--Using public transport instead of own vehicles, 
+-Using public transport instead of own vehicles
+
 -Planting more and more trees. Trees absorbs CO2 thereby reducing the trapped CO2 in the  atmosphere.  
+
 -Carpooling
 
 
