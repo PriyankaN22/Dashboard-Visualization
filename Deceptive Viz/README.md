@@ -56,11 +56,11 @@ According to  World Meteorological Organisation (WMO), surging carbon dioxide le
 As part of this step, I presented the basic prototype to professor along with the claim and implementation process that I was going to follow. 
 
 ### Phase 3: 
-#### Development of final visualization
+#### Development of final visualization I
 
 After receiving approval for basic prototype, I started working on the flaws in previous version. I came up with an idea of dividing countries into two categories – developed and developing. The purpose of this categorization was to determine which category has more CO2 emission. As the two categories differ significantly in terms of industrial revolution, mitigation strategies to reduce the emission in these categories would also be different. Therefore, these categories will give us a way to compare and find out reasons for rising emissions. 
 
-In this version, I have plotted emission for both the categories against year. Clearly, we can see CO2 emission is way higher for developed countries. In 2014, emission for developed nation was 376,213 million tons whereas it was 174,875 million tons for developing countries. That means developed countries contribute almost twice as that of the developing countries. I then modified my claim as below.
+In this version, I have plotted emission for both the categories against year. Clearly, we can see CO2 emission is way higher for developed countries. In 2014, emission for developed nation was 376,213 million tons whereas it was 174,875 million tons for developing countries. That means developed countries contribute almost twice as that of the developing countries. Hence, I modified my claim as below.
 
 #### Claim: 
 Developed nations contribute more to overall CO2 emission than developing nations.
@@ -76,6 +76,19 @@ https://www.cgdev.org/media/who-caused-climate-change-historically
 
 <img width="499" alt="v2 0" src="https://user-images.githubusercontent.com/31669563/32977495-60ab9778-cbe3-11e7-81b8-548307b584e6.PNG">
 
+#### Analysis: 
+Global warming is the consequence of greenhouse gas emissions, mainly CO2, which has accumulated in the Earth’s atmosphere as a result of fossil fuel based industrial activity in the developed countries of the world. Between 1850 to 1960, developed countries saw a large increase in industrialization and population due to which the world experienced a constant growth of emissions. Developed nations are heavily industrialized as compared to developing nations and release more greenhouse gases per capita than developing ones. Developed countries have high number of vehicles which produce more gas eventually leading to the excessive CO2 emission and thereby causing climate change.
+
+#### Actions/Corrective measures: 
+Developed countries must put every necessary effort to stabilize greenhouse gas emissions caused by industrialization.
+
+International agreements like Kyoto protocol should be strictly enforced to follow emission reduction targets.
+
+General public in these countries should be made aware about increasing CO2 levels. As per the saying “Change should start from within”, every individual should consider climate change as their own problem and should try to support global effort by contributing on individual level.  Some of the ways an individual can reduce emissions is are:
+
+-Using public transport instead of own vehicles, 
+-Planting more and more trees. Trees absorbs CO2 thereby reducing the trapped CO2 in the  atmosphere.  
+-Carpooling
 
 
 
