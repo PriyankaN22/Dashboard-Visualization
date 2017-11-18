@@ -15,7 +15,8 @@ There is a strong need of determining mitigating strategies that seek to hold in
 ## Objective of visualization:
 
 The world’s countries contribute different amounts of CO2 to atmosphere. We cannot solve the climate change problem without participation of all the countries. In order to figure out the steps necessary to reduce global emissions of greenhouse gases in an effort to check global climate change, it is important to study the CO2 emissions by each country. Formulation of targets for emissions reduction for all countries based on the principle of “common but differentiated responsibilities” depends primarily on the quantitative attribution of the responsibilities of developed and developing countries for historical climate change. So, we have divided our analysis into two groups – developed and developing countries. 
-The visualization will present the CO2 emissions for last 160 years for developing and developed countries. 
+
+The visualization will present the CO2 emissions for last 160 years for developing and developed countries.  We will be developing two visualizations which refute each other.  The purpose is to experience and realize the ethical implications of design decisions during the development of visualizations.
 
 ## Datasets:
 
