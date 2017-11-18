@@ -101,6 +101,18 @@ General public in these countries should be made aware about increasing CO2 leve
 
 -Carpooling
 
+### Phase 4: Development of deceptive version
+
+The task was to develop a visualization which will purposefully deceive the audience. 
+
+For this, I have plotted two graphs. First one showing percentage difference between CO2 emissions for developed and developing nations from year 1850 to 2014 and second for average emission of two countries from each category. 
+
+<img width="502" alt="v3 0" src="https://user-images.githubusercontent.com/31669563/32978382-175f00d8-cbf6-11e7-808e-a40903d794bc.PNG">
+
+We see that in the above graph, from 1850 to 1930, percent increase in CO2 emission of developed nations is below 5%. From year 1930 till 2014, it decreased significantly. There was only an increase of 1.4% in year 2014 as compared to emission in 2013. Whereas, if we observe for developing nations, rate of increase in CO2 emission went on increasing from year 1850 till 1865. The rate decreased slightly from 1870 till 1930, but it again increased to become 6.7% in 1960. After that the rate never decreased, it remained stagnant(4-5%) till now. Comparison for both the categories shows that CO for developing countries is increasing at a much higher rate than that of developing countries. 
+
+
+
 
 
 
