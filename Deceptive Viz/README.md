@@ -64,7 +64,7 @@ As part of this step, I presented the basic prototype to professor along with th
 
 After receiving approval for basic prototype, I started working on the flaws in previous version. I came up with an idea of dividing countries into two categories – developed and developing. The purpose of this categorization was to determine which category has more CO2 emission. As the two categories differ significantly in terms of industrial revolution, mitigation strategies to reduce the emission in these categories would also be different. Therefore, these categories will give us a way to compare and find out reasons for rising emissions. 
 
-In this version, I have plotted emission for both the categories against year. Clearly, we can see CO2 emission is way higher for developed countries. In 2014, emission for developed nation was 376,213 million tons whereas it was 174,875 million tons for developing countries. That means developed countries contribute almost twice as that of the developing countries. 
+In this version, I have plotted emission for both the categories against year. Clearly, we can see CO2 emission is way higher for developed countries. In 2014, emission for developed nation was 376,213 million tons whereas it was 174,875 million tons for developing countries. That means developed countries contribute almost twice as that of the developing countries. I chose area graph because I wanted to show the comparison between two categories. Looking at the area, we can easily figure out the difference.
 
 <img width="499" alt="v2 0" src="https://user-images.githubusercontent.com/31669563/32977495-60ab9778-cbe3-11e7-81b8-548307b584e6.PNG">
 
