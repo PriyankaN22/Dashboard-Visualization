@@ -27,7 +27,7 @@ Source: https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions/#the-l
 Also uploaded at: https://github.com/PriyankaN22/Dashboard-Visualization/blob/master/Deceptive%20Viz/cumulative-co-emissions.csv
 
 ## Roadmap:
-#### Phase 1:
+### Phase 1:
 Data exploration and development of a basic prototype
 
 After selecting a topic, I started exploring data. https://ourworldindata.org/ provided a good quality data which was needed for this analysis. This site has used CDIAC(Carbon Dioxide Information Analysis Center) - http://cdiac.ess-dive.lbl.gov/trends/emis/meth_reg.html as the main source to extract and collate CO2 emissions from various factors. As the data was already clean and in required format, there was no need to perform data wrangling. I used this data as it is.
@@ -39,33 +39,40 @@ At the beginning, I wanted to understand the overall trend of CO2 emission. Henc
 
 These findings helped me form a base for developing a claim. Hence, I developed following model.
 
-Claim: CO2 emission is increasing rapidly all over the world.
+#### Claim: CO2 emission is increasing rapidly all over the world.
 
-Qualifier: Average CO2 emission for all the countries in the world.
+#### Qualifier: Average CO2 emission for all the countries in the world.
 
-Warrant: According to  World Meteorological Organisation (WMO), surging carbon dioxide levels have pushed greenhouse gases to records high in the atmosphere. The concentration has increased at its fastest rate for 30 years in 2013. These facts show that average CO2 emission is rapidly increasing all over the world
+#### Warrant: 
+According to  World Meteorological Organisation (WMO), surging carbon dioxide levels have pushed greenhouse gases to records high in the atmosphere. The concentration has increased at its fastest rate for 30 years in 2013. These facts show that average CO2 emission is rapidly increasing all over the world
 
-Backing: https://www.theguardian.com/environment/2014/sep/09/carbon-dioxide-emissions-greenhouse-gases
+#### Backing: https://www.theguardian.com/environment/2014/sep/09/carbon-dioxide-emissions-greenhouse-gases
 
-Disadvantage: This version provides us the holistic view and indicates the overall trend, however, it is difficult to target a particular parameter in order to develop action plans.
+#### Disadvantage: This version provides us the holistic view and indicates the overall trend, however, it is difficult to target a particular parameter in order to develop action plans.
 
-Phase 2: Approval for basic prototype and the implementation process
+### Phase 2: 
+Approval for basic prototype and the implementation process
 
 As part of this step, I presented the basic prototype to professor along with the claim and implementation process that I was going to follow. 
 
-Phase 3: Development of final visualization
+### Phase 3: 
+Development of final visualization
 
 After receiving approval for basic prototype, I started working on the flaws in previous version. I came up with an idea of dividing countries into two categories – developed and developing. The purpose of this categorization was to determine which category has more CO2 emission. As the two categories differ significantly in terms of industrial revolution, mitigation strategies to reduce the emission in these categories would also be different. Therefore, these categories will give us a way to compare and find out reasons for rising emissions. 
 
 In this version, I have plotted emission for both the categories against year. Clearly, we can see CO2 emission is way higher for developed countries. In 2014, emission for developed nation was 376,213 million tons whereas it was 174,875 million tons for developing countries. That means developed countries contribute almost twice as that of the developing countries. I then modified my claim as below.
 
-Claim: Developed nations contribute more to overall CO2 emission than developing nations.
+#### Claim: 
+Developed nations contribute more to overall CO2 emission than developing nations.
 
-Qualifier: Average CO2 emission for developed and developing countries.
+#### Qualifier: 
+Average CO2 emission for developed and developing countries.
 
-Warrant: As the average CO2 emission for developed countries is almost twice as that of the developing countries, developed countries are major sources of rising CO2 emission levels. 
+#### Warrant: 
+As the average CO2 emission for developed countries is almost twice as that of the developing countries, developed countries are major sources of rising CO2 emission levels. 
 
-Backing: https://www.cgdev.org/media/who-caused-climate-change-historically
+#### Backing: 
+https://www.cgdev.org/media/who-caused-climate-change-historically
 
 <img width="499" alt="v2 0" src="https://user-images.githubusercontent.com/31669563/32977495-60ab9778-cbe3-11e7-81b8-548307b584e6.PNG">
 
