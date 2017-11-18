@@ -28,7 +28,7 @@ Also uploaded at: https://github.com/PriyankaN22/Dashboard-Visualization/blob/ma
 
 ## Roadmap:
 ### Phase 1:
-Data exploration and development of a basic prototype
+#### Data exploration and development of a basic prototype
 
 After selecting a topic, I started exploring data. https://ourworldindata.org/ provided a good quality data which was needed for this analysis. This site has used CDIAC(Carbon Dioxide Information Analysis Center) - http://cdiac.ess-dive.lbl.gov/trends/emis/meth_reg.html as the main source to extract and collate CO2 emissions from various factors. As the data was already clean and in required format, there was no need to perform data wrangling. I used this data as it is.
 
@@ -51,12 +51,12 @@ According to  World Meteorological Organisation (WMO), surging carbon dioxide le
 #### Disadvantage: This version provides us the holistic view and indicates the overall trend, however, it is difficult to target a particular parameter in order to develop action plans.
 
 ### Phase 2: 
-Approval for basic prototype and the implementation process
+#### Approval for basic prototype and the implementation process
 
 As part of this step, I presented the basic prototype to professor along with the claim and implementation process that I was going to follow. 
 
 ### Phase 3: 
-Development of final visualization
+#### Development of final visualization
 
 After receiving approval for basic prototype, I started working on the flaws in previous version. I came up with an idea of dividing countries into two categories – developed and developing. The purpose of this categorization was to determine which category has more CO2 emission. As the two categories differ significantly in terms of industrial revolution, mitigation strategies to reduce the emission in these categories would also be different. Therefore, these categories will give us a way to compare and find out reasons for rising emissions. 
 
