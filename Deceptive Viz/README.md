@@ -28,8 +28,7 @@ Also uploaded at: https://github.com/PriyankaN22/Dashboard-Visualization/blob/ma
 
 ## Roadmap:
 ### Phase 1: 
-#### Work accomplished: 
-Developed a basic prototype
+__Data exploration and development of a basic prototype
 
 After selecting a topic, I started exploring data. https://ourworldindata.org/ provided a very good quality data which was needed for our analysis. They have used CDIAC(Carbon Dioxide Information Analysis Center) - http://cdiac.ess-dive.lbl.gov/trends/emis/meth_reg.html as the main source to extract and collate CO2 emissions from various factors. 
 
