@@ -31,8 +31,14 @@ Also uploaded at: https://github.com/PriyankaN22/Dashboard-Visualization/blob/ma
 #### Work accomplished: 
 Developed a basic prototype
 
+After selecting a topic, I started exploring data. https://ourworldindata.org/ provided a very good quality data which was needed for our analysis. They have used CDIAC(Carbon Dioxide Information Analysis Center) - http://cdiac.ess-dive.lbl.gov/trends/emis/meth_reg.html as the main source to extract and collate CO2 emissions from various factors. 
+
 At the beginning, I wanted to understand the overall trend of CO2 emission. Hence, I plotted a graph of average cumulative CO2 emissions for last 150 years for all the countries. The graph showed that CO2 emission is increasing rapidly over the years with 2014 being the year of highest emission. Please refer below.
 
+Disadvantage: This version provides us the holistic view and indicates the overall trend, however, it does not provide any parameter to develop an action plan.
+
+
 <img width="548" alt="v1 0" src="https://user-images.githubusercontent.com/31669563/32976233-00fa2e8c-cbc7-11e7-9f96-d51b439ffe82.PNG">
+
 
 
