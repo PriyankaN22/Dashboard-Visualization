@@ -39,16 +39,20 @@ At the beginning, I wanted to understand the overall trend of CO2 emission. Henc
 
 These findings helped me form a base for developing a claim. Hence, I developed following model.
 
-#### Claim: CO2 emission is increasing rapidly all over the world.
+#### Claim: 
+CO2 emission is increasing rapidly all over the world.
 
-#### Qualifier: Average CO2 emission for all the countries in the world.
+#### Qualifier: 
+Average CO2 emission for all the countries in the world.
 
 #### Warrant: 
 According to  World Meteorological Organisation (WMO), surging carbon dioxide levels have pushed greenhouse gases to records high in the atmosphere. The concentration has increased at its fastest rate for 30 years in 2013. These facts show that average CO2 emission is rapidly increasing all over the world
 
-#### Backing: https://www.theguardian.com/environment/2014/sep/09/carbon-dioxide-emissions-greenhouse-gases
+#### Backing: 
+https://www.theguardian.com/environment/2014/sep/09/carbon-dioxide-emissions-greenhouse-gases
 
-#### Disadvantage: This version provides us the holistic view and indicates the overall trend, however, it is difficult to target a particular parameter in order to develop action plans.
+#### Disadvantage: 
+This version provides us the holistic view and indicates the overall trend, however, it is difficult to target a particular parameter in order to develop action plans.
 
 ### Phase 2: 
 #### Approval for basic prototype and the implementation process
