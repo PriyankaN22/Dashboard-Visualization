@@ -60,7 +60,7 @@ This version provides us the holistic view and indicates the overall trend, howe
 As part of this step, I presented the basic prototype to professor along with the claim and implementation process that I was going to follow. 
 
 ### Phase 3: 
-#### Development of final visualization I
+#### Development of final version
 
 After receiving approval for basic prototype, I started working on the flaws in previous version. I came up with an idea of dividing countries into two categories – developed and developing. The purpose of this categorization was to determine which category has more CO2 emission. As the two categories differ significantly in terms of industrial revolution, mitigation strategies to reduce the emission in these categories would also be different. Therefore, these categories will give us a way to compare and find out reasons for rising emissions. 
 
@@ -84,7 +84,6 @@ As the average CO2 emission for developed countries is almost twice as that of t
 https://www.cgdev.org/media/who-caused-climate-change-historically
 
 
-
 #### Analysis: 
 Global warming is the consequence of greenhouse gas emissions, mainly CO2, which has accumulated in the Earth’s atmosphere as a result of fossil fuel based industrial activity in the developed countries of the world. Between 1850 to 1960, developed countries saw a large increase in industrialization and population due to which the world experienced a constant growth of emissions. Developed nations are heavily industrialized as compared to developing nations and release more greenhouse gases per capita than developing ones. Developed countries have high number of vehicles which produce more gas eventually leading to the excessive CO2 emission and thereby causing climate change.
 
@@ -101,11 +100,24 @@ General public in these countries should be made aware about increasing CO2 leve
 
 -Carpooling
 
-### Phase 4: Development of deceptive version
+### Phase 4: 
+#### Development of deceptive version
 
 The task was to develop a visualization which will purposefully deceive the audience. 
+For this, I have plotted two graphs. First one showing percentage difference between CO2 emissions for developed and developing nations from year 1850 to 2014 and second for average emission of three countries from each category.
 
-For this, I have plotted two graphs. First one showing percentage difference between CO2 emissions for developed and developing nations from year 1850 to 2014 and second for average emission of two countries from each category. 
+#### Claim:
+Developing nations contribute more to overall CO2 emission than developed nations.
+
+#### Qualifier: 
+Average CO2 emission for developed and developing countries.
+
+#### Warrant: 
+The rate of CO2 emission is more for developing countries as compared to developed countries. Also, if we pick the highest emitters in each category, developing nations have emissions much higher than that of developed nations. Hence, developing nations contribute more to overall CO2 emission. 
+#### Backing: 
+https://www.huffingtonpost.com/2013/07/25/carbon-emissions-developing-countries_n_3651513.html
+
+#### Analysis: 
 
 <img width="502" alt="v3 0" src="https://user-images.githubusercontent.com/31669563/32978382-175f00d8-cbf6-11e7-808e-a40903d794bc.PNG">
 
@@ -113,16 +125,12 @@ We see that in the above graph, from 1850 to 1930, percent increase in CO2 emiss
 
 <img width="498" alt="v4 0" src="https://user-images.githubusercontent.com/31669563/32985499-5f8ca650-cc71-11e7-9e49-071bf5cd8c2c.PNG">
 
-
-In the second graph, I have picked the sample of two maximum emitters from each category. Developing countries like UAE and Qatar are the highest emitters, US and UK are highest amongst developed countries.  I have plotted average CO2 emission per capita per year for UAE, Qatar, UK and US for a time period of 1950 to 2014. Per capita emission for developing countries is way higher than that of developed countries. Average per capita emission for developed nations is some what constant between 6-9 tons per year for the given time period. Developing nations saw a huge rise in per capita emission in the decade of 1960. Though the emission decreased after that, it still remained significantly more than the emission from developed countries. Looking at the latest data, Qatar is the highest emitter with 49.7 tons followed by 23.3 tons for UAE. UK could keep their emission in check to around 6.5 tons for all these years. Even US has managed to curb down their emission to around 16 tons per capita per year. This means, per capita emission for developing nation is almost thrice the per capita emission for developed nations. 
+In the second graph, I have picked the sample of three maximum emitters from each category. Developing countries like UAE, Qatar and China are the highest emitters. US, UK and Germany are highest amongst developed countries. I have plotted average CO2 emission per capita per year for UAE, Qatar, China, UK, Germany and US for a time period of 1950 to 2014. Per capita emission for developing countries is way higher than that of developed countries. Average per capita emission for developed nations is some what constant between 6-9 tons per year for the given time period. Developing nations saw a huge rise in per capita emission in the decade of 1960. Though the emission decreased after that, it still remained significantly more than the emission from developed countries. Looking at the latest data, Qatar is the highest emitter with 49.7 tons followed by 23.3 tons for UAE. UK could keep their emission in check to around 6.5 tons for all these years. Even Germany and US has managed to curb down their emission to around 11 tons and 16 tons per capita per year respectively. Emission for China was in control till year 2000, but after that emissions has increased rapidly over the years and it has even surpassed the emission for UK now. This means, per capita emission for developing nation is almost thrice the per capita emission for developed nations. 
 
 Carbon emissions are created as people burn fossil fuels to produce electricity and power cars. Middle east countries including Qatar and UAE has the highest carbon footprint globally. Oil and gas resources are plentiful and cheap in these countries, so there is no financial incentive to use less energy.  Gulf countries has world’s largest oil reserves, and exports most of what it, this had been a source of seemingly endless wealth and major source of carbon emission. Dubai has also constructed no less than ten golf courses in the middle of its desert, Gulf countries have create unnatural marvels at great expense and with heavy energy consumption. While the other countries have constantly made efforts to cut back on emission, UAE and other gulfs has done little to nothing to reduce its carbon footprint. Pollution from vehicles continues to blacken the air in Arab cities. So, these developing nations from Middle east have to think about the ways to reduce energy consumption.
 
+China is another biggest contributor in terms of emission amongst the developing countries. In 2000, the International Energy Agency(IEA) estimated that Chinese emissions would be 18% of the global total in 2020, in 2014 the actual value was 29%. Deforestation and population growth in China mainly caused this rise in emission. By 2011, Asia became the largest emitter of CO2 largely due to rapid growth in China. 
 
+#### Final version: 
 
-
-
-
-
-
-
+<img width="698" alt="final deceptive" src="https://user-images.githubusercontent.com/31669563/32987222-2a257680-cc9a-11e7-982f-826b3f759f0d.PNG">
