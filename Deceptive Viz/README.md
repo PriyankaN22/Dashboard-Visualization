@@ -87,6 +87,10 @@ https://www.cgdev.org/media/who-caused-climate-change-historically
 #### Analysis: 
 Global warming is the consequence of greenhouse gas emissions, mainly CO2, which has accumulated in the Earth’s atmosphere as a result of fossil fuel based industrial activity in the developed countries of the world. Between 1850 to 1960, developed countries saw a large increase in industrialization and population due to which the world experienced a constant growth of emissions. Developed nations are heavily industrialized as compared to developing nations and release more greenhouse gases per capita than developing ones. Developed countries have high number of vehicles which produce more gas eventually leading to the excessive CO2 emission and thereby causing climate change.
 
+#### Final version:
+
+https://public.tableau.com/profile/priyanka.n4310#!/vizhome/CO2emissions_62/Dashboard1?publish=yes
+
 #### Actions/Corrective measures: 
 Developed countries must put every necessary effort to stabilize greenhouse gas emissions caused by industrialization.
 
@@ -134,3 +138,6 @@ China is another biggest contributor in terms of emission amongst the developing
 #### Final version: 
 
 <img width="698" alt="final deceptive" src="https://user-images.githubusercontent.com/31669563/32987222-2a257680-cc9a-11e7-982f-826b3f759f0d.PNG">
+
+https://public.tableau.com/profile/priyanka.n4310#!/vizhome/CO2emissions_62/Dashboard2?publish=yes
+
