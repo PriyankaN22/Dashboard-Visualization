@@ -153,4 +153,11 @@ Employers can offer commuter benefits that address limited or expensive parking,
 
 Conscious efforts should be made to switch from coal to more sustainable energy sources such as wind or solar power. 
 
+### Future enhancements:
+
+Adding CO2 emission by each factor like industry, residential, agriculture, energy, land use and other sources will help us understand the major causes. We can develop action plans to reduce the emission for those factors.
+
+Highest CO2 emission in middle east countries is mainly due to high energy consumption. If we add CO2 emission by each source, we will come to know if energy consumption is the largest factor. We can then analyze if middle east really has maximum contribution to the overall CO2 emission. 
+
+
 
