@@ -141,3 +141,16 @@ China is another biggest contributor in terms of emission amongst the developing
 
 https://public.tableau.com/profile/priyanka.n4310#!/vizhome/CO2emissions_62/Dashboard2?publish=yes
 
+### Action/corrective measures:
+
+Developing countries especially the middle east nations should form strategies and policies to assess and monitor the levels of emissions.
+
+Reduce energy usage. Building are the biggest energy users. Industry sectors in both developing as well developed countries should ensure that the new buildings are made to be energy efficient. 
+
+Reducing CO2 emissions is not only the responsibility of nations but also a responsibility of every individual. Biking, telecommuting, Recycling disposable products, planting trees, spreading awareness, using paper bags instead of plastic bags, conserving electricity for example by using CFL lights instead of the normal bulbs are some of the easy ways which can help to reduce CO2 emission and it’s harmful impacts.
+
+Employers can offer commuter benefits that address limited or expensive parking, reduce traffic congestion, improve employee recruiting and retention and minimize the environmental impacts associated with drive-alone commuting.
+
+Conscious efforts should be made to switch from coal to more sustainable energy sources such as wind or solar power. 
+
+
