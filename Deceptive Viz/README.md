@@ -159,5 +159,16 @@ Adding CO2 emission by each factor like industry, residential, agriculture, ener
 
 Highest CO2 emission in middle east countries is mainly due to high energy consumption. If we add CO2 emission by each source, we will come to know if energy consumption is the largest factor. We can then analyze if middle east really has maximum contribution to the overall CO2 emission. 
 
+### References:
+
+https://www.huffingtonpost.com/2013/07/25/carbon-emissions-developing-countries_n_3651513.html
+https://www.thenational.ae/uae/environment/region-s-carbon-emissions-doubled-in-past-30-years-report-1.586064
+https://www.jewishpolicycenter.org/2009/08/31/carbon-emissions-in-the-middle-east/
+http://www.climatechangenews.com/2017/03/31/chinese-co2-emissions-really-peaked/
+http://www.careerride.com/view/global-warming-is-caused-more-by-developed-countries-12461.aspx
+https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions/#the-long-run-history-cumulative-co2
+http://www.natureasia.com/en/nmiddleeast/article/10.1038/nmiddleeast.2015.233
+
+
 
 
