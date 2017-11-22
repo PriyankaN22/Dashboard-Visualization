@@ -1,7 +1,7 @@
 
 ### Lab 9: 
 #### Objective: 
-Develop a visualizations that help recruiters(redesign of visualization developed as part of lab 6)
+Develop a visualizations on SCU MSIS program that helps recruiters(redesign of visualization developed as part of lab 6)
 
 #### Critique on Lab 6:
 •	The visualization has lot of chart junk. There are some unnecessary items which are not required to fulfill the objective
@@ -46,6 +46,6 @@ https://www.scu.edu/business/ms-information-systems/
 •	Added a metric - courses offered in SCU MSIS
 •	Due to time constraint, I could not work on developing a storyboard and also on the Jupyter file. 
 
-Improved version: 
+#### Improved version: 
 
 https://public.tableau.com/profile/priyanka.n4310#!/vizhome/SCUMSIS_Dashboard/Dashboard4?publish=yes
