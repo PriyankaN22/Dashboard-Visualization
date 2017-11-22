@@ -51,7 +51,7 @@ The list of courses offered indicates that MSIS degree gives students exposure t
 https://www.thebalance.com/top-skills-to-list-on-linkedin-2062321
 https://www.scu.edu/business/ms-information-systems/
 
-##### How I have improved my visualization?
+##### How I have improved my visualization:
 •	Removed clutter
 
 •	Removed colors
