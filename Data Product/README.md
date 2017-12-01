@@ -1,9 +1,3 @@
-Hi All,
-
-Copy paste this in your README file. Few things are here and there right now, but we'll finalize it today.
-This is just to give everybody an idea on how the doc is looking right now. I will share the pictures I have used. I am almost done with the making-of's table. Will add that and share.
-
-------------------
 
 # Data Product : Corruption, how it is affecting countries? Is there a solution to it?
 
