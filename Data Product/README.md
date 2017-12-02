@@ -1,4 +1,4 @@
-# Data Product : Corruption, its effects and solution.
+# Data Product : Corruption, its effects and solution
 
 ##### Date: 2nd Nov 2017                                                                                                                                                    
 ##### Professor: Michael Schermann
@@ -7,8 +7,22 @@
 
 ##### Tableau Visual: 
 
-Link1: 
+Link1: Perception matches Reality
+
 https://public.tableau.com/profile/nikhil.kaushik#!/vizhome/Corruption_Perception_and_Reality/PerceptionandReality?publish=yes
+
+Link2: Corruption has adverse effect on human development
+
+https://public.tableau.com/profile/priyanka.n4310#!/vizhome/HumanDevelopmentIndex_19/Dashboard1?publish=yes
+
+
+Link3: Countries with higher CPI have more stable and predictable GDP
+
+https://public.tableau.com/profile/neha.goushal#!/vizhome/CorruptionaffectGDP/GDPvsCPI?publish=yes
+
+Link4: Educate people to eradicate corruption
+
+https://public.tableau.com/profile/embar.ravi.bhargav#!/vizhome/SchoolingyearsVSCorruptionPerceptionIndex/Dashboard3?publish=yes
 
 ##### Youtube Video:
 ***
@@ -186,32 +200,87 @@ Hence, we need to see the impact of corruption on overall quality of human capit
 
 Advantages: In this visualization, we have plotted corruption perception index against human development index. We have divided the countries into continents in order to get a better understanding and to analyze the reasons behind corruption. Blue color represents Asia, Africa and South America whereas red represents North America and Europe. We can clearly see the trend here, the Asian, African and South American countries have very low corruption perception index which indicates a very high corruption. Clearly, they have a very low human development index. For North America, Europe and Oceania, as the corruption perception index is increasing, i.e. as the corruption is decreasing, we get to see a growing trend in human development. The visualization provides the platform to study the reasons and come up with an action plan to eradicate corruption.  
 
-![Screenshot](https://user-images.githubusercontent.com/32223677/33511546-5f6da59c-d6d1-11e7-9383-ea8c843e5790.PNG)
+![Screenshot](https://user-images.githubusercontent.com/32223677/33513108-24756752-d6f1-11e7-9caf-2fdb06c18981.PNG)
 
 ***
-### Visualization 3: Countries with higher CPI have a stable GDP.
+### Visualization 3: Countries with higher CPI have more stable and predictable GDP
 
-Gross domestic product (GDP)
+Gross domestic product (GDP) is the total value of everything produced by all the people and companies in the country. It doesn't matter if they are citizens or foreign-owned companies. If they are located within the country's boundaries, the government counts their production as GDP. It is the best way to measure a country's economy. According to the World Bank, the average income in countries with a high level of corruption is about a third of that of countries with a low level of corruption. Hence, we thought of comparing the effect of corruption on GDP.
 
-Gross domestic product (GDP) is the total value of everything produced by all the people and companies in the country. It doesn't matter if they are citizens or foreign-owned companies. If they are located within the country's boundaries, the government counts their production as GDP. It is the best way to measure a country's economy. According to the World Bank, the average income in countries with a high level of corruption is about a third of that of countries with a low level of corruption. Hence, we thought of comparing the effect of corruption on GDP.
- 
 Corruption has been studied as a problem of political, economic, cultural and moral underdevelopment. The World Bank and IMF presume that corruption has significantly negative effects on economic growth. Corruption undermines development by distorting the rule of law and weakening the institutional foundation on which economic growth depends.
- 
-The mutual causality between corruption and GDP level is negative, which means a higher level of corruption results in a lower level of GDP and vice versa.
-On one hand corruption feeds on rent, which produce inefficient economic policies, also corruption often works as a tax on factor accumulation and on investment that hinders economic development. On the other hand, high levels of national income may bring greater willingness to combat corruption.
- 
+
+**Intermediate version:**
+
+Tableau link - https://public.tableau.com/profile/neha.goushal#!/vizhome/CorruptionaffectGDP/Intermediate?publish=yes
+
+![Screenshot](https://user-images.githubusercontent.com/32223677/33512461-ddf2b204-d6e5-11e7-81ec-d27baa48c45f.png)
+
+The mutual causality between corruption and GDP level is negative, which means a higher level of corruption results in a lower level of GDP and vice versa. On one hand corruption feeds on rent, which produce inefficient economic policies, also corruption often works as a tax on factor accumulation and on investment that hinders economic development. On the other hand, high levels of national income may bring greater willingness to combat corruption.
+
+Advantages:
+- This visualization helps us to see a trend among the countries.
+- The GDP measure of a country for a particular year does not depict the true picture. 
+
+Disadvantages:
+- There is double encoding in this visual because we have used colors to encode CPI again.
+- There are not a lot of countries on the higher end of GDP among less corrupt countries.
+
+**Final version:**
+
+Tableau link – https://public.tableau.com/profile/neha.goushal#!/vizhome/CorruptionaffectGDP/GDPvsCPI?publish=yes
+
+![Screenshot](https://user-images.githubusercontent.com/32223677/33512458-c797f1e0-d6e5-11e7-9f3b-b135042dfe37.png)
+
+The GDP for the countries on the left is fluctuating a lot and their GDP cannot be predicted but we can predict the rate of GDP growth for the countries on the right. For more corrupt countries, GDP fluctuates because corruption could hinder or help these countries in growing faster.
+
 If we examine the relationship between perceived corruption level and economic growth rate across countries, we can see that growth rates diverge more for countries with high-level corruption. In other words, while many highly corrupt countries have low economic growth rates, there are countries that have achieved rapid economic growth under rampant governmental corruption. This at least suggests that some countries may achieve high economic performance despite high corruption.
- 
-We also found a significantly positive impact of corruption on GDP growth in large East Asian countries. One explanation might be that a strong centralized government can limit the negative effects of bribery compared to a decentralized corrupt bureaucracy. The long-run estimates indicate that corruption has direct negative impact on per capita GDP. 
- 
+
+We also found a significantly positive impact of corruption on GDP growth in large East Asian countries. One explanation might be that a strong centralized government can limit the negative effects of bribery compared to a decentralized corrupt bureaucracy. The long-run estimates indicate that corruption has direct negative impact on per capita GDP. 
+
+Advantages:
+- The color coding has been used to depict the regions.
+- This lets us analyze the problem on regional basis rather than country basis.
+- We have considered percent change in GDP which reflects a better picture than the exact GDP value for a year.
+
+Disadvantages:
+- There is no strong and clear trend.
+- This has the percent change of GDP only over one year, which again is not very effective.
+- Also, the CPI value is for the year 2013 and does not help us in concluding a strong claim.
+
 ***
-### Visualization 4: Education
+### Visualization 4: Educate people to eradicate corruption
+Why Education as a metric?
+Education is the most important thing in one’s life. Being well educated makes one a better, responsible, well mannered and an ethical human being.
+If one does not have adequate schooling experience, they are more likely to fall into the wrong path of corruption.
+Since we are talking about corruption we want to highlight one of the factors that could be a reason for corruption which is lack of education or less number of schooling years.
+The point here is to show that countries which have more number of schooling years are less corrupted. In other words, education can be the possible solution to the problem of corruption.
+
+![Screenshot](https://user-images.githubusercontent.com/32223677/33512151-d397b59a-d6de-11e7-9b34-ea07c0a446ef.png)
+
+Data source: http://data.uis.unesco.org/Index.aspx?queryid=242#
 
 ### V. About the final Data Product
 This Data product is a set of several visualization and covers the topic of **Corruption**, its affects and its causes.
 In this project the team has created several visuals to represent how different countries are perceived on the parameter of corruption and where they actually lies in reality using the parameter 'percentage of people who actually bribed' in the country. 
 
-Then the second visualization shows how the corruption has been affecting the Human development. This a graph showing Human Development Index and Corruption Perception Index.
+Claim: Corruption has adverse effect on social, economic and human development
+Warrant
+Corruption affects the economic development of the country. Corrupted economies are just not able to function properly because corruption prevents the natural laws of the economy from functioning freely. As a result, corruption in a nation's political and economic operations causes its entire society to suffer. According to the World Bank, the average income in countries with a high level of corruption is about a third of that of countries with a low level of corruption. Also, the infant mortality rate in such countries is about 3 times higher and the literacy rate is 25% lower.  
+ 
+On a national scale, corruption means that resources that should go to community and national development are diverted, and so poverty and inequality are not addressed. Prolonged delays in prosecution, the inconsistent application of penalties to perpetrators, and the belief that upper income persons use their positions of class to extract benefits not afforded to persons of a lower socio-economic class only add to the perception of corruption. Persons of a lower socio-economic standing (the poor and the vulnerable) are denied access, privileges, and opportunities, and when fairness and justice are not being served at the various levels of society.
+ 
+In a system with corruption there is no quality of service. To demand quality one might need to pay for it. This is seen in many areas like municipality, electricity, distribution of relief funds etc. If a person has to purchase a like medicine, due to corruption in education then the candidate after completion of his course will not like to provide quality health service if there is not enough remuneration for his service. Further candidates who do not have the ability can also get into the same seat by purchasing it. So though he becomes a medical practitioner, he may not be competent enough.
+ 
+Backing
+ 
+We have placed our warrant with reference to the articles below.
+Source* https://www.investopedia.com/articles/investing/012215/how-corruption-affects-   emerging-economies.asp
+http://www.jamaicaobserver.com/columns/How-corruption-affects-human-development_17102577
+http://www.mindcontroversy.com/impact-effects-corruption-public-life-india/
+ 
+Qualifier
+We have taken the Corruption Perception Index, Gross Domestic Product, Average Schooling years, Human Development Index for all the countries for the year 2013. We have further grouped them based on continents for our study.
+
 
 ### V.	Road map with future features/enhancements
 * Add analysis to check why and how corruption became prevelant in certain areas of the world. Also, add predictive modelling to understand the possible future trend to see how the corruption can affect a region (will it increase or decrease).
@@ -236,6 +305,21 @@ Link: https://blogs.imf.org/2017/09/21/corruption-in-latin-america-taking-stock/
 
 Link: https://www.insightcrime.org/news/analysis/why-is-latin-america-so-corrupt/
 
+References for Visualization 3:
+
+Link1: http://www.tandfonline.com/doi/full/10.1080/1331677X.2016.1169701
+
+Link2: https://www.investopedia.com/articles/investing/012215/how-corruption-affects-emerging-economies.asp
+
+References for Visualization 4:
+
+Link1: http://data.uis.unesco.org/Index.aspx?queryid=242#
+
+Link2: https://blog.udemy.com/importance-of-school/
+
+Link3: https://www.enotes.com/homework-help/why-school-important-our-lives-407271
+
+Link4: https://edlab.tc.columbia.edu/blog/9886-Why-is-Education-So-Important-in-Our-Life
 
 ### VI. Learnings and Challenges:
 * This project helped us in understanding what a data product means and how important it is to put all the pieces together to create an effective story.
